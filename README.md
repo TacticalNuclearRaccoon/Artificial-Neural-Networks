@@ -1,2 +1,2 @@
 # Artificial-Neural-Networks
-Quick tutorial notes on how to use Keras API to create a sequential artificial neural network model with a (made-up) dataset. 
+This repo contains various notebooks that I have worked on in order to learn and practice how to use the Keras API to create a sequential artificial neural network models.
